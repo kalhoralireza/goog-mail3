@@ -1,6 +1,6 @@
 # goog-mail3
 
-A script written in python 3 that will be exteract email addresse of a company using googels search results.
+A script written in python 3 that will be extract email address of a company using google's search results.
 
 ## Install Requirements
 
